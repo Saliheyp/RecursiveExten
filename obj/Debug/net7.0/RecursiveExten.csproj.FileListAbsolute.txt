@@ -1,0 +1,15 @@
+D:\Patika\RecursiveExten\bin\Debug\net7.0\RecursiveExten.exe
+D:\Patika\RecursiveExten\bin\Debug\net7.0\RecursiveExten.deps.json
+D:\Patika\RecursiveExten\bin\Debug\net7.0\RecursiveExten.runtimeconfig.json
+D:\Patika\RecursiveExten\bin\Debug\net7.0\RecursiveExten.dll
+D:\Patika\RecursiveExten\bin\Debug\net7.0\RecursiveExten.pdb
+D:\Patika\RecursiveExten\obj\Debug\net7.0\RecursiveExten.csproj.AssemblyReference.cache
+D:\Patika\RecursiveExten\obj\Debug\net7.0\RecursiveExten.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\RecursiveExten\obj\Debug\net7.0\RecursiveExten.AssemblyInfoInputs.cache
+D:\Patika\RecursiveExten\obj\Debug\net7.0\RecursiveExten.AssemblyInfo.cs
+D:\Patika\RecursiveExten\obj\Debug\net7.0\RecursiveExten.csproj.CoreCompileInputs.cache
+D:\Patika\RecursiveExten\obj\Debug\net7.0\RecursiveExten.dll
+D:\Patika\RecursiveExten\obj\Debug\net7.0\refint\RecursiveExten.dll
+D:\Patika\RecursiveExten\obj\Debug\net7.0\RecursiveExten.pdb
+D:\Patika\RecursiveExten\obj\Debug\net7.0\RecursiveExten.genruntimeconfig.cache
+D:\Patika\RecursiveExten\obj\Debug\net7.0\ref\RecursiveExten.dll
